@@ -3,13 +3,16 @@ import { useOutletContext } from 'react-router-dom';
 import { Plus, Search, Filter, Download, Package, Edit2, Trash2, Minus, ChevronLeft, ChevronRight, MoreVertical, Eye } from 'lucide-react';
 import { useProducts } from '../context/ProductContext';
 import ProductModal from '../components/common/ProductModal';
+import DeleteConfirmModal from '../components/common/DeleteConfirmModal';
 
 const Products = () => {
   const { searchTerm } = useOutletContext();
   const { products, addProduct, updateProduct, deleteProduct, updateQuantity } = useProducts();
   const [showAddModal, setShowAddModal] = useState(false);
   const [showEditModal, setShowEditModal] = useState(false);
+  const [showDeleteModal, setShowDeleteModal] = useState(false);
   const [selectedProduct, setSelectedProduct] = useState(null);
+  const [productToDelete, setProductToDelete] = useState(null);
   const [localSearch, setLocalSearch] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -44,9 +47,16 @@ const Products = () => {
     setShowEditModal(true);
   };
 
-  const handleDelete = (id) => {
-    if (window.confirm('Are you sure you want to delete this product?')) {
-      deleteProduct(id);
+  const handleDeleteClick = (product) => {
+    setProductToDelete(product);
+    setShowDeleteModal(true);
+  };
+
+  const handleDeleteConfirm = () => {
+    if (productToDelete) {
+      deleteProduct(productToDelete.id);
+      setShowDeleteModal(false);
+      setProductToDelete(null);
     }
   };
 
@@ -124,15 +134,15 @@ const Products = () => {
       {/* Products Table */}
       <div className="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden">
         <div className="overflow-x-auto">
-          <table className="w-full">
+          <table className="w-full table-fixed">
             <thead>
               <tr className="bg-gray-50 border-b border-gray-100">
-                <th className="text-left py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider">Product</th>
-                <th className="text-left py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider">Category</th>
-                <th className="text-left py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider">Price</th>
-                <th className="text-left py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider">Quantity</th>
-                <th className="text-left py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider">Status</th>
-                <th className="text-right py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider">Actions</th>
+                <th className="text-left py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider w-[30%]">Product</th>
+                <th className="text-left py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider w-[15%]">Category</th>
+                <th className="text-left py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider w-[12%]">Price</th>
+                <th className="text-left py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider w-[12%]">Quantity</th>
+                <th className="text-left py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider w-[15%]">Status</th>
+                <th className="text-right py-4 px-6 text-xs font-semibold text-gray-500 uppercase tracking-wider w-[16%]">Actions</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-100">
@@ -148,47 +158,32 @@ const Products = () => {
                           className="w-full h-full object-cover"
                         />
                       </div>
-                      <div className="min-w-0">
+                      <div className="min-w-0 flex-1">
                         <h3 className="font-medium text-gray-900 truncate">{product.name}</h3>
-                        <p className="text-sm text-gray-500 truncate max-w-[200px]">{product.description || 'No description'}</p>
+                        <p className="text-sm text-gray-500 truncate">{product.description || 'No description'}</p>
                       </div>
                     </div>
                   </td>
 
                   {/* Category */}
                   <td className="py-4 px-6">
-                    <span className="inline-flex items-center px-2.5 py-1 rounded-md text-xs font-medium bg-purple-50 text-purple-700">
+                    <span className="inline-flex items-center px-2.5 py-1 rounded-md text-xs font-medium bg-purple-50 text-purple-700 truncate max-w-full">
                       {product.category || 'Uncategorized'}
                     </span>
                   </td>
 
                   {/* Price */}
-                  <td className="py-4 px-6">
+                  <td className="py-4 px-6 whitespace-nowrap">
                     <span className="font-semibold text-gray-900">€{parseFloat(product.price || 0).toFixed(2)}</span>
                   </td>
 
                   {/* Quantity Controls */}
-                  <td className="py-4 px-6">
-                    <div className="flex items-center gap-2">
-                      {/* <button
-                        onClick={() => handleQuantityChange(product, -1)}
-                        className="w-8 h-8 flex items-center justify-center rounded-md bg-gray-100 hover:bg-gray-200 text-gray-600 transition-colors"
-                        disabled={product.quantity <= 0}
-                      >
-                        <Minus className="w-4 h-4" />
-                      </button> */}
-                      <span className="w-12 text-center font-medium text-gray-900">{product.quantity || 0}</span>
-                      {/* <button
-                        onClick={() => handleQuantityChange(product, 1)}
-                        className="w-8 h-8 flex items-center justify-center rounded-md bg-gray-100 hover:bg-gray-200 text-gray-600 transition-colors"
-                      >
-                        <Plus className="w-4 h-4" />
-                      </button> */}
-                    </div>
+                  <td className="py-4 px-6 whitespace-nowrap">
+                    <span className="font-medium text-gray-900">{product.quantity || 0}</span>
                   </td>
 
                   {/* Status */}
-                  <td className="py-4 px-6">
+                  <td className="py-4 px-6 whitespace-nowrap">
                     {product.quantity > 20 ? (
                       <span className="inline-flex items-center px-2.5 py-1 rounded-full text-xs font-medium bg-green-50 text-green-700">
                         <span className="w-1.5 h-1.5 rounded-full bg-green-500 mr-1.5"></span>
@@ -208,7 +203,7 @@ const Products = () => {
                   </td>
 
                   {/* Actions */}
-                  <td className="py-4 px-6">
+                  <td className="py-4 px-6 whitespace-nowrap">
                     <div className="flex items-center justify-end gap-2">
                       <button
                         onClick={() => handleEdit(product)}
@@ -218,7 +213,7 @@ const Products = () => {
                         <Edit2 className="w-4 h-4" />
                       </button>
                       <button
-                        onClick={() => handleDelete(product.id)}
+                        onClick={() => handleDeleteClick(product)}
                         className="p-2 text-gray-500 hover:text-red-600 hover:bg-red-50 rounded-lg transition-colors"
                         title="Delete"
                       >
@@ -313,6 +308,14 @@ const Products = () => {
           title="Edit Product"
         />
       )}
+
+      {/* Delete Confirmation Modal */}
+      <DeleteConfirmModal
+        isOpen={showDeleteModal}
+        onClose={() => { setShowDeleteModal(false); setProductToDelete(null); }}
+        onConfirm={handleDeleteConfirm}
+        productName={productToDelete?.name || ''}
+      />
     </div>
   );
 };

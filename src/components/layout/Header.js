@@ -6,9 +6,12 @@ const Header = ({ sidebarOpen, setSidebarOpen, searchTerm, setSearchTerm }) => {
 
   return (
     <header className="bg-white shadow-sm sticky top-0 z-30">
-      <div className="flex items-center justify-between px-6 py-4">
-        <div className="flex items-center gap-4">
-          <button onClick={() => setSidebarOpen(!sidebarOpen)} className="p-2 hover:bg-gray-100 rounded-xl transition-colors">
+      <div className="flex items-center justify-between px-4 md:px-6 py-4">
+        <div className="flex items-center gap-2 md:gap-4">
+          <button
+            onClick={() => setSidebarOpen(!sidebarOpen)}
+            className="p-2 hover:bg-gray-100 rounded-xl transition-colors"
+          >
             <Menu className="w-6 h-6 text-gray-600" />
           </button>
           <div className="relative">
@@ -18,7 +21,7 @@ const Header = ({ sidebarOpen, setSidebarOpen, searchTerm, setSearchTerm }) => {
               placeholder="Search products..."
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="pl-10 pr-4 py-2 bg-gray-100 rounded-xl w-64 focus:ring-2 focus:ring-purple-500 transition-all"
+              className="pl-10 pr-4 py-2 bg-gray-100 rounded-xl w-40 md:w-64 focus:ring-2 focus:ring-purple-500 transition-all text-sm md:text-base"
             />
           </div>
         </div>

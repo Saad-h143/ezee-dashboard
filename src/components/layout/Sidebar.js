@@ -11,11 +11,24 @@ const navItems = [
   // { path: '/settings', icon: Settings, label: 'Settings' },
 ];
 
-const Sidebar = ({ isOpen }) => {
+const Sidebar = ({ isOpen, onClose }) => {
   const { logout } = useAuth();
 
   return (
-    <aside className={`${isOpen ? 'w-64' : 'w-20'} bg-gradient-to-b from-gray-900 to-gray-800 min-h-screen transition-all duration-300 fixed left-0 top-0 z-40`}>
+    <>
+      {/* Mobile overlay */}
+      {isOpen && (
+        <div
+          className="fixed inset-0 bg-black/50 z-40 md:hidden"
+          onClick={onClose}
+        />
+      )}
+
+      <aside className={`
+        ${isOpen ? 'w-64 translate-x-0' : 'w-64 -translate-x-full md:translate-x-0 md:w-20'}
+        bg-gradient-to-b from-gray-900 to-gray-800 min-h-screen transition-all duration-300
+        fixed left-0 top-0 z-50
+      `}>
       <div className="p-4">
         <div className="flex items-center mb-8">
           <img src={logo} alt="Ezee Logo" className="w-24 h-24 rounded-xl object-contain" />
@@ -52,6 +65,7 @@ const Sidebar = ({ isOpen }) => {
         </button>
       </div>
     </aside>
+    </>
   );
 };
 
