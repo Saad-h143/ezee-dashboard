@@ -98,7 +98,7 @@ const ProductModal = ({ product, onClose, onSave, title }) => {
             </select>
           </div>
 
-          <div>
+          {/* <div>
             <label className="block text-sm font-medium text-gray-700 mb-2">Image URL</label>
             <input
               type="url"
@@ -107,7 +107,7 @@ const ProductModal = ({ product, onClose, onSave, title }) => {
               className="w-full px-4 py-3 bg-gray-50 border border-gray-200 rounded-xl focus:ring-2 focus:ring-purple-500 focus:border-transparent"
               placeholder="https://example.com/image.jpg"
             />
-          </div>
+          </div> */}
 
           <div className="flex gap-3 pt-4">
             <button type="button" onClick={onClose} className="flex-1 px-6 py-3 border border-gray-200 text-gray-700 rounded-xl hover:bg-gray-50 transition-colors">

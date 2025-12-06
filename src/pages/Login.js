@@ -30,7 +30,7 @@ const Login = () => {
         }
       } else {
         await login(email, password);
-        navigate('/dashboard');
+        navigate('/products');
       }
     } catch (err) {
       console.error('Auth error:', err);
