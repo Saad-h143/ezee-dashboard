@@ -28,6 +28,6 @@ export const WEEKLY_DATA = [
   { name: 'Sun', orders: 180 },
 ];
 
-export const CATEGORIES = ['Phones', 'Laptops', 'Tablets', 'Accessories', 'Wearables', 'Gaming', 'Audio'];
+export const CATEGORIES = ['Phones', 'Laptops', 'Tablets', 'Accessories',  'LCD'];
 
 export const CHART_COLORS = ['#6366f1', '#22c55e', '#f59e0b', '#ec4899', '#8b5cf6', '#06b6d4'];
