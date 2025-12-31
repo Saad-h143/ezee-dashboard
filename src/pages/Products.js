@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { useOutletContext } from 'react-router-dom';
-import { Plus, Search, Filter, Download, Package, Edit2, Trash2, Minus, ChevronLeft, ChevronRight, MoreVertical, Eye } from 'lucide-react';
+import { Plus, Search, Download, Package, Edit2, Trash2, ChevronLeft, ChevronRight} from 'lucide-react';
 import { useProducts } from '../context/ProductContext';
 import ProductModal from '../components/common/ProductModal';
 import DeleteConfirmModal from '../components/common/DeleteConfirmModal';
