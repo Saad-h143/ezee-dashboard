@@ -1,0 +1,4584 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 16 Pro Max 256GB Box Pack Black",
+    "category": "Mobiles",
+    "price": 1060,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-blacktitanium?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-blacktitanium?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-model-unselect-gallery-2-202409?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-model-unselect-gallery-1-202409?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 16 Pro Max 512GB Kit Gold",
+    "category": "Mobiles",
+    "price": 1100,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-deserttitanium?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-deserttitanium?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-model-unselect-gallery-2-202409?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-model-unselect-gallery-1-202409?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 16 Pro Max 1TB Gold",
+    "category": "Mobiles",
+    "price": 1180,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-deserttitanium?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-finish-select-202409-6-9inch-deserttitanium?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-model-unselect-gallery-2-202409?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-model-unselect-gallery-1-202409?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 4,
+    "name": "iPhone 16 256GB Blue Kit",
+    "category": "Mobiles",
+    "price": 650,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-ultramarine?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-ultramarine?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-model-unselect-gallery-2-202409?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-model-unselect-gallery-1-202409?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 5,
+    "name": "iPhone 16 256GB Open Box White",
+    "category": "Mobiles",
+    "price": 680,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-white?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-white?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-model-unselect-gallery-2-202409?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-model-unselect-gallery-1-202409?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 6,
+    "name": "iPhone 16 256GB Open Box Pink",
+    "category": "Mobiles",
+    "price": 680,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-pink?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-finish-select-202409-6-1inch-pink?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-model-unselect-gallery-2-202409?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-model-unselect-gallery-1-202409?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 7,
+    "name": "iPhone 14 Pro 128GB Kit Black",
+    "category": "Mobiles",
+    "price": 480,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-spaceblack?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-spaceblack?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-gold?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 8,
+    "name": "iPhone 14 Pro 256GB Kit Black",
+    "category": "Mobiles",
+    "price": 500,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-spaceblack?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-spaceblack?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-deeppurple?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-1inch-silver?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 9,
+    "name": "iPhone 14 128GB Kit Black",
+    "category": "Mobiles",
+    "price": 280,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-midnight?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-purple?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 10,
+    "name": "iPhone 14 Plus 128GB Kit White",
+    "category": "Mobiles",
+    "price": 300,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-starlight?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-starlight?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-midnight?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-finish-select-202209-6-7inch-blue?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 11,
+    "name": "iPhone 15 128GB Pink Kit",
+    "category": "Mobiles",
+    "price": 500,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-pink?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-pink?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-blue?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-green?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 12,
+    "name": "iPhone 15 Pro Open Box 128GB",
+    "category": "Mobiles",
+    "price": 560,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-blacktitanium?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-blacktitanium?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-naturaltitanium?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-1inch-bluetitanium?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 13,
+    "name": "iPhone 15 Plus Open Box Pink 128GB",
+    "category": "Mobiles",
+    "price": 480,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-plus-finish-select-202309-6-7inch-pink?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-plus-finish-select-202309-6-7inch-pink?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-plus-finish-select-202309-6-7inch-blue?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-plus-finish-select-202309-6-7inch-black?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 14,
+    "name": "iPhone 13 Pro 128GB Kit Blue",
+    "category": "Mobiles",
+    "price": 400,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-blue-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-blue-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-gold-select?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 15,
+    "name": "iPhone 13 Pro 256GB Kit Black",
+    "category": "Mobiles",
+    "price": 380,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-blue-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-silver-select?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 16,
+    "name": "iPhone 13 Pro Max 128GB Kit",
+    "category": "Mobiles",
+    "price": 400,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-blue-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-gold-select?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 17,
+    "name": "iPhone 13 Pro Max 256GB Kit Black",
+    "category": "Mobiles",
+    "price": 380,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-silver-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-blue-select?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 18,
+    "name": "iPhone 13 128GB Kit Black",
+    "category": "Mobiles",
+    "price": 250,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-blue-select-2021?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-starlight-select-2021?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 19,
+    "name": "iPhone 13 256GB Kit Pink",
+    "category": "Mobiles",
+    "price": 300,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pink-select-2021?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pink-select-2021?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-blue-select-2021?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 20,
+    "name": "iPhone 11 128GB Kit White",
+    "category": "Mobiles",
+    "price": 170,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-white-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-white-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-black-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-purple-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 21,
+    "name": "iPhone 11 64GB AB Kit Black",
+    "category": "Mobiles",
+    "price": 140,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-black-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-black-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-white-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-red-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 22,
+    "name": "iPhone 11 Pro 64GB Kit",
+    "category": "Mobiles",
+    "price": 190,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-midnight-green-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-midnight-green-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-gold-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-space-gray-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 23,
+    "name": "iPhone 11 Pro Max 64GB Kit",
+    "category": "Mobiles",
+    "price": 190,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-midnight-green-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-midnight-green-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-gold-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-space-gray-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 24,
+    "name": "iPhone 11 Pro Max 512GB",
+    "category": "Mobiles",
+    "price": 290,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-gold-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-gold-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-midnight-green-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-silver-select-2019?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 25,
+    "name": "iPhone 12 Pro 128GB Kit",
+    "category": "Mobiles",
+    "price": 300,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-gold-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-blue-select?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 26,
+    "name": "iPhone 12 Pro Max 128GB Kit",
+    "category": "Mobiles",
+    "price": 300,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-gold-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-blue-select?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 27,
+    "name": "iPhone 12 Pro Max 256GB Kit New",
+    "category": "Mobiles",
+    "price": 400,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-gold-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-gold-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-graphite-select?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-silver-select?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 28,
+    "name": "iPhone 12 256GB Kit Green",
+    "category": "Mobiles",
+    "price": 250,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-green-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-green-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 29,
+    "name": "iPhone 12 128GB Kit Black",
+    "category": "Mobiles",
+    "price": 200,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-red-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 30,
+    "name": "iPhone 12 64GB Kit New",
+    "category": "Mobiles",
+    "price": 170,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 31,
+    "name": "iPhone 12 Mini 64GB Kit New",
+    "category": "Mobiles",
+    "price": 165,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-blue-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-blue-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-black-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-red-select-2020?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 32,
+    "name": "iPhone SE 2 128GB Kit",
+    "category": "Mobiles",
+    "price": 130,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-black-select-202203?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-black-select-202203?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-white-select-202203?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-red-select-202203?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 33,
+    "name": "iPhone 8 64GB Kit",
+    "category": "Mobiles",
+    "price": 80,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-8-space-gray-select-2018?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-8-space-gray-select-2018?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-8-silver-select-2018?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-8-gold-select-2018?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 34,
+    "name": "iPhone 7 32GB Kit",
+    "category": "Mobiles",
+    "price": 70,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-7-black-select-2016?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-7-black-select-2016?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-7-silver-select-2016?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-7-gold-select-2016?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ],
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 35,
+    "name": "Samsung A05 64GB New",
+    "category": "Mobiles",
+    "price": 63,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A05",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A05",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A05",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A05"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 36,
+    "name": "Samsung A05s 4/128GB New",
+    "category": "Mobiles",
+    "price": 95,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A05s",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A05s",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A05s",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A05s"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 37,
+    "name": "Samsung A05s 64GB New",
+    "category": "Mobiles",
+    "price": 84,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A05s",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A05s",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A05s",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A05s"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 38,
+    "name": "Samsung A06 4GB/128GB 6.7\" Dual SIM",
+    "category": "Mobiles",
+    "price": 77,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A06",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A06",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A06",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A06"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 39,
+    "name": "Samsung A06 4GB/64GB 6.7\" Dual SIM",
+    "category": "Mobiles",
+    "price": 70,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A06",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A06",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A06",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A06"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 40,
+    "name": "Samsung A14 6/128GB Refurbished",
+    "category": "Mobiles",
+    "price": 90,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A14",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A14",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A14",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A14"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 41,
+    "name": "Samsung A16 4/128GB 6.7\" New",
+    "category": "Mobiles",
+    "price": 104,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A16",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A16",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A16",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A16"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 42,
+    "name": "Samsung A25 6/128GB Yellow",
+    "category": "Mobiles",
+    "price": 180,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A25",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A25",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A25",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A25"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 43,
+    "name": "Samsung A36 6/128GB New",
+    "category": "Mobiles",
+    "price": 230,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A36",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A36",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A36",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A36"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 44,
+    "name": "Samsung A55 8/128GB Black",
+    "category": "Mobiles",
+    "price": 273,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A55",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A55",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A55",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A55"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 45,
+    "name": "Samsung A56 8/128GB New",
+    "category": "Mobiles",
+    "price": 285,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+A56",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+A56",
+      "https://placehold.co/400x400/1a3ba8/white?text=Samsung+A56",
+      "https://placehold.co/400x400/0d47a1/white?text=Samsung+A56"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 46,
+    "name": "Redmi 13C 8/256GB New",
+    "category": "Mobiles",
+    "price": 88,
+    "image": "https://m.media-amazon.com/images/I/71WpWVe4ObL._AC_UF894,1000_QL80_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71WpWVe4ObL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71dRFUzgflL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 47,
+    "name": "Redmi A3 4/128GB New",
+    "category": "Mobiles",
+    "price": 62,
+    "image": "https://m.media-amazon.com/images/I/71dRFUzgflL._AC_UF894,1000_QL80_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71dRFUzgflL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71WpWVe4ObL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 48,
+    "name": "Redmi A5 2/64GB New",
+    "category": "Mobiles",
+    "price": 62,
+    "image": "https://m.media-amazon.com/images/I/71dRFUzgflL._AC_UF894,1000_QL80_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71dRFUzgflL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71WpWVe4ObL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 49,
+    "name": "Redmi A5 4/128GB New",
+    "category": "Mobiles",
+    "price": 72,
+    "image": "https://m.media-amazon.com/images/I/71dRFUzgflL._AC_UF894,1000_QL80_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71dRFUzgflL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71WpWVe4ObL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 50,
+    "name": "Xiaomi Redmi 14C 128GB New",
+    "category": "Mobiles",
+    "price": 74,
+    "image": "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71dRFUzgflL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71fyMFQpGrL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 51,
+    "name": "Xiaomi Redmi 14C 8/256GB New",
+    "category": "Mobiles",
+    "price": 90,
+    "image": "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71dRFUzgflL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71fyMFQpGrL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 52,
+    "name": "Xiaomi Redmi Note 14 4G 8/256GB Black",
+    "category": "Mobiles",
+    "price": 155,
+    "image": "https://m.media-amazon.com/images/I/71fyMFQpGrL._AC_UF894,1000_QL80_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71fyMFQpGrL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71xK6QXWY9L._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 53,
+    "name": "Xiaomi Redmi Note 14 Pro 4G 8/256GB Black",
+    "category": "Mobiles",
+    "price": 200,
+    "image": "https://m.media-amazon.com/images/I/71xK6QXWY9L._AC_UF894,1000_QL80_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71xK6QXWY9L._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71fyMFQpGrL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 54,
+    "name": "Xiaomi Redmi Note 14 Pro+ 5G 256GB Kit",
+    "category": "Mobiles",
+    "price": 250,
+    "image": "https://m.media-amazon.com/images/I/71xK6QXWY9L._AC_UF894,1000_QL80_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71xK6QXWY9L._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71fyMFQpGrL._AC_UF894,1000_QL80_.jpg",
+      "https://m.media-amazon.com/images/I/71SZPDixsoL._AC_UF894,1000_QL80_.jpg"
+    ],
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 1000,
+    "name": "iPhone 7 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-7-black-select-2016?wid=400&hei=400&fmt=jpeg&qlt=90",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-7-black-select-2016?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-7-black-select-2016?wid=400&hei=400&fmt=jpeg&qlt=90",
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-7-black-select-2016?wid=400&hei=400&fmt=jpeg&qlt=90"
+    ]
+  },
+  {
+    "id": 1001,
+    "name": "iPhone 8/SE INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "/lcd-images/iphone 8.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 8.jpg",
+      "/lcd-images/iphone 8.jpg",
+      "/lcd-images/iphone 8.jpg"
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "iPhone 8 Plus INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "/lcd-images/iphone 8.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 8.jpg",
+      "/lcd-images/iphone 8.jpg",
+      "/lcd-images/iphone 8.jpg"
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "iPhone X INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 13,
+    "image": "/lcd-images/iphone x.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg"
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "iPhone XS INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 13,
+    "image": "/lcd-images/iphone x.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg"
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "iPhone XS Max INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 14,
+    "image": "/lcd-images/iphone xs-max.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone xs-max.jpg",
+      "/lcd-images/iphone xs-max.jpg",
+      "/lcd-images/iphone xs-max.jpg"
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "iPhone 11 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "iPhone 11 Pro INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "iPhone 11 Pro Max INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "iPhone 12/12 Pro INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s"
+    ]
+  },
+  {
+    "id": 1010,
+    "name": "iPhone 12 Pro Max INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 18,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s"
+    ]
+  },
+  {
+    "id": 1011,
+    "name": "iPhone 13 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 16,
+    "image": "/lcd-images/iphone 13.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 13.jpg",
+      "/lcd-images/iphone 13.jpg",
+      "/lcd-images/iphone 13.jpg"
+    ]
+  },
+  {
+    "id": 1012,
+    "name": "iPhone 13 Pro INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 18,
+    "image": "/lcd-images/iphone 13 pro.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 13 pro.jpg",
+      "/lcd-images/iphone 13 pro.jpg",
+      "/lcd-images/iphone 13 pro.jpg"
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "iPhone 13 Pro Max INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 18,
+    "image": "/lcd-images/iphone 13 pro max.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 13 pro max.jpg",
+      "/lcd-images/iphone 13 pro max.jpg",
+      "/lcd-images/iphone 13 pro max.jpg"
+    ]
+  },
+  {
+    "id": 1014,
+    "name": "iPhone 14 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 18,
+    "image": "/lcd-images/iphone 14 pro.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg"
+    ]
+  },
+  {
+    "id": 1015,
+    "name": "iPhone 14 Pro INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 20,
+    "image": "/lcd-images/iphone 14 pro.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg"
+    ]
+  },
+  {
+    "id": 1016,
+    "name": "iPhone 14 Pro Max INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 23,
+    "image": "/lcd-images/iphone 14 pro max.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 14 pro max.jpg",
+      "/lcd-images/iphone 14 pro max.jpg",
+      "/lcd-images/iphone 14 pro max.jpg"
+    ]
+  },
+  {
+    "id": 1017,
+    "name": "iPhone 15 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 21,
+    "image": "/lcd-images/iphone 15.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg"
+    ]
+  },
+  {
+    "id": 1018,
+    "name": "iPhone 15 Pro INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 20,
+    "image": "/lcd-images/iphone 15.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg"
+    ]
+  },
+  {
+    "id": 1019,
+    "name": "iPhone 15 Pro Max INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 22,
+    "image": "/lcd-images/iphone 15.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg"
+    ]
+  },
+  {
+    "id": 1020,
+    "name": "iPhone 16 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "/lcd-images/iphone 16.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 16.jpg",
+      "/lcd-images/iphone 16.jpg",
+      "/lcd-images/iphone 16.jpg"
+    ]
+  },
+  {
+    "id": 1100,
+    "name": "iPhone X PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 14,
+    "image": "/lcd-images/iphone x.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg"
+    ]
+  },
+  {
+    "id": 1101,
+    "name": "iPhone XS PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 14,
+    "image": "/lcd-images/iphone x.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg"
+    ]
+  },
+  {
+    "id": 1102,
+    "name": "iPhone XS Max PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 18,
+    "image": "/lcd-images/iphone xs-max.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone xs-max.jpg",
+      "/lcd-images/iphone xs-max.jpg",
+      "/lcd-images/iphone xs-max.jpg"
+    ]
+  },
+  {
+    "id": 1103,
+    "name": "iPhone 11 PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1104,
+    "name": "iPhone 11 Pro PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 17,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1105,
+    "name": "iPhone 11 Pro Max PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 18,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1106,
+    "name": "iPhone 12/12 Pro PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 17,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s"
+    ]
+  },
+  {
+    "id": 1107,
+    "name": "iPhone 12 Pro Max PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 23,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s"
+    ]
+  },
+  {
+    "id": 1108,
+    "name": "iPhone 13 PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 19,
+    "image": "/lcd-images/iphone 13.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 13.jpg",
+      "/lcd-images/iphone 13.jpg",
+      "/lcd-images/iphone 13.jpg"
+    ]
+  },
+  {
+    "id": 1109,
+    "name": "iPhone 13 Pro PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 20,
+    "image": "/lcd-images/iphone 13 pro.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 13 pro.jpg",
+      "/lcd-images/iphone 13 pro.jpg",
+      "/lcd-images/iphone 13 pro.jpg"
+    ]
+  },
+  {
+    "id": 1110,
+    "name": "iPhone 13 Pro Max PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "/lcd-images/iphone 13 pro max.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 13 pro max.jpg",
+      "/lcd-images/iphone 13 pro max.jpg",
+      "/lcd-images/iphone 13 pro max.jpg"
+    ]
+  },
+  {
+    "id": 1111,
+    "name": "iPhone 14 PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 20,
+    "image": "/lcd-images/iphone 14 pro.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg"
+    ]
+  },
+  {
+    "id": 1112,
+    "name": "iPhone 14 Pro PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 26,
+    "image": "/lcd-images/iphone 14 pro.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg"
+    ]
+  },
+  {
+    "id": 1113,
+    "name": "iPhone 14 Pro Max PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 34,
+    "image": "/lcd-images/iphone 14 pro max.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 14 pro max.jpg",
+      "/lcd-images/iphone 14 pro max.jpg",
+      "/lcd-images/iphone 14 pro max.jpg"
+    ]
+  },
+  {
+    "id": 1114,
+    "name": "iPhone 15 PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "/lcd-images/iphone 15.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg"
+    ]
+  },
+  {
+    "id": 1115,
+    "name": "iPhone 15 Pro PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "/lcd-images/iphone 15.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg"
+    ]
+  },
+  {
+    "id": 1116,
+    "name": "iPhone 15 Pro Max PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 40,
+    "image": "/lcd-images/iphone 15.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg"
+    ]
+  },
+  {
+    "id": 1117,
+    "name": "iPhone 16 PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 32,
+    "image": "/lcd-images/iphone 16.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 16.jpg",
+      "/lcd-images/iphone 16.jpg",
+      "/lcd-images/iphone 16.jpg"
+    ]
+  },
+  {
+    "id": 1200,
+    "name": "iPhone 11 INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 16,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1201,
+    "name": "iPhone 11 GX INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 16,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1202,
+    "name": "iPhone 11 Pro GX HARD OLED LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 25,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1203,
+    "name": "iPhone 11 Pro Max INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 20,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1204,
+    "name": "iPhone 11 Pro Max GX HARD OLED LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "/lcd-images/iphone 11.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg",
+      "/lcd-images/iphone 11.jpg"
+    ]
+  },
+  {
+    "id": 1205,
+    "name": "iPhone 12/12 Pro INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 19,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s"
+    ]
+  },
+  {
+    "id": 1206,
+    "name": "iPhone 12 Pro Max INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 27,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8uOeV_0e3gEXusZifwLobB4lEJ5hvj6XMHw&s"
+    ]
+  },
+  {
+    "id": 1207,
+    "name": "iPhone 12 Mini INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 18,
+    "image": "/lcd-images/iphone 12 mini.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 12 mini.jpg",
+      "/lcd-images/iphone 12 mini.jpg",
+      "/lcd-images/iphone 12 mini.jpg"
+    ]
+  },
+  {
+    "id": 1208,
+    "name": "iPhone 13 Pro Max GX HARD OLED LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 45,
+    "image": "/lcd-images/iphone 13 pro max.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 13 pro max.jpg",
+      "/lcd-images/iphone 13 pro max.jpg",
+      "/lcd-images/iphone 13 pro max.jpg"
+    ]
+  },
+  {
+    "id": 1209,
+    "name": "iPhone 12/12 Pro GX INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrpEL4DGXaCxJX1K0mMSaEiEHbyUgOdsd9mw&s"
+    ]
+  },
+  {
+    "id": 1210,
+    "name": "iPhone X INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 16,
+    "image": "/lcd-images/iphone x.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg"
+    ]
+  },
+  {
+    "id": 1211,
+    "name": "iPhone XS INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 16,
+    "image": "/lcd-images/iphone x.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg",
+      "/lcd-images/iphone x.jpg"
+    ]
+  },
+  {
+    "id": 1212,
+    "name": "iPhone XR INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 17,
+    "image": "/lcd-images/iphone xr.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone xr.jpg",
+      "/lcd-images/iphone xr.jpg",
+      "/lcd-images/iphone xr.jpg"
+    ]
+  },
+  {
+    "id": 1213,
+    "name": "iPhone XS Max INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 20,
+    "image": "/lcd-images/iphone xs-max.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone xs-max.jpg",
+      "/lcd-images/iphone xs-max.jpg",
+      "/lcd-images/iphone xs-max.jpg"
+    ]
+  },
+  {
+    "id": 1214,
+    "name": "iPhone 14 Pro Max INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 38,
+    "image": "/lcd-images/iphone 14 pro max.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 14 pro max.jpg",
+      "/lcd-images/iphone 14 pro max.jpg",
+      "/lcd-images/iphone 14 pro max.jpg"
+    ]
+  },
+  {
+    "id": 1215,
+    "name": "iPhone 14 Pro INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 40,
+    "image": "/lcd-images/iphone 14 pro.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg"
+    ]
+  },
+  {
+    "id": 1216,
+    "name": "iPhone 14 Pro GX HARD OLED LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 65,
+    "image": "/lcd-images/iphone 14 pro.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg",
+      "/lcd-images/iphone 14 pro.jpg"
+    ]
+  },
+  {
+    "id": 1217,
+    "name": "iPhone 15 Pro Max INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 43,
+    "image": "/lcd-images/iphone 15.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg"
+    ]
+  },
+  {
+    "id": 1218,
+    "name": "iPhone 15 Pro INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 34,
+    "image": "/lcd-images/iphone 15.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg"
+    ]
+  },
+  {
+    "id": 1219,
+    "name": "iPhone 15 INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 25,
+    "image": "/lcd-images/iphone 15.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg",
+      "/lcd-images/iphone 15.jpg"
+    ]
+  },
+  {
+    "id": 1220,
+    "name": "iPhone 16 INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 35,
+    "image": "/lcd-images/iphone 16.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 16.jpg",
+      "/lcd-images/iphone 16.jpg",
+      "/lcd-images/iphone 16.jpg"
+    ]
+  },
+  {
+    "id": 1221,
+    "name": "iPhone 16 Pro Max INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 75,
+    "image": "/lcd-images/iphone 16 pro max.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 16 pro max.jpg",
+      "/lcd-images/iphone 16 pro max.jpg",
+      "/lcd-images/iphone 16 pro max.jpg"
+    ]
+  },
+  {
+    "id": 2265,
+    "name": "iPhone 12 Mini INCELL EXCELLENT LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 18,
+    "image": "/lcd-images/iphone 12 mini.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone 12 mini.jpg",
+      "/lcd-images/iphone 12 mini.jpg",
+      "/lcd-images/iphone 12 mini.jpg"
+    ]
+  },
+  {
+    "id": 2294,
+    "name": "Oppo A3/A3x/F7 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A3%2FA3x%2FF7",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2295,
+    "name": "Oppo A13 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A13",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2296,
+    "name": "Oppo A15 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A15",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2297,
+    "name": "Oppo A16 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A16",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2298,
+    "name": "Oppo A16s INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A16s",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2299,
+    "name": "Oppo A17/A17k INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A17%2FA17k",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2300,
+    "name": "Oppo A18 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A18",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2301,
+    "name": "Oppo A38 4G INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A38%204G",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2302,
+    "name": "Oppo A40 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A40",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2303,
+    "name": "Oppo A52 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A52",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2304,
+    "name": "Oppo A53 5G INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A53G",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2305,
+    "name": "Oppo A53s INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A53s",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2306,
+    "name": "Oppo A54 4G INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A54%204G",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2307,
+    "name": "Oppo A55 4G INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A55%204G",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2308,
+    "name": "Oppo A57 4G INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A57%204G",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2309,
+    "name": "Oppo A58 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A58",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2310,
+    "name": "Oppo A59 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A59",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2311,
+    "name": "Oppo A60 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A60",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2312,
+    "name": "Oppo A72 5G INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A72G",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2313,
+    "name": "Oppo A77 5G INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A77G",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2314,
+    "name": "Oppo Find X3 Lite High Copy INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+Find%20X3%20Lite%20High%20Copy",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2315,
+    "name": "Oppo F9 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+F9",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2316,
+    "name": "Oppo Find X5 Lite OLED INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 40,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+Find%20X5%20Lite%20OLED",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2317,
+    "name": "Oppo A12 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A12",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2318,
+    "name": "Oppo A73 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A73",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2319,
+    "name": "Oppo A76 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A76",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2320,
+    "name": "Oppo A74 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A74",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2321,
+    "name": "Oppo A79 5G INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A79G",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2322,
+    "name": "Oppo A9 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A9",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2323,
+    "name": "Oppo A96 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A96",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2324,
+    "name": "Oppo A98 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A98",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2325,
+    "name": "Oppo A95 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A95",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2326,
+    "name": "Oppo A18 5G INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A18G",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2327,
+    "name": "Oppo A78 INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/059669/white?text=Oppo+A78",
+    "inStock": true,
+    "brand": "Oppo"
+  },
+  {
+    "id": 2328,
+    "name": "Samsung M15 High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+M15+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2329,
+    "name": "Samsung S9 High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S9+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2330,
+    "name": "Samsung S8 Plus High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S8%20Plus+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2331,
+    "name": "Samsung S9 Plus High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S9%20Plus+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2332,
+    "name": "Samsung S10 High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 35,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S10+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2333,
+    "name": "Samsung S10 Plus High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 40,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S10%20Plus+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2334,
+    "name": "Samsung S20 High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 38,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S20+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2335,
+    "name": "Samsung S20 Ultra High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 50,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S20%20Ultra+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2336,
+    "name": "Samsung S21 High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S21+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2337,
+    "name": "Samsung S21 Ultra High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 50,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S21%20Ultra+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2338,
+    "name": "Samsung S22 High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 45,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S22+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2339,
+    "name": "Samsung S22 Ultra High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 65,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S22%20Ultra+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2340,
+    "name": "Samsung S23 High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 45,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S23+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2341,
+    "name": "Samsung S23 Ultra High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 70,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S23%20Ultra+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2342,
+    "name": "Samsung S24 High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 45,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S24+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2343,
+    "name": "Samsung S24 Ultra High Copy W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 65,
+    "image": "https://placehold.co/400x400/475569/white?text=Samsung+S24%20Ultra+HC",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2344,
+    "name": "Samsung A05s NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A05s+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2345,
+    "name": "Samsung A05 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A05+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2346,
+    "name": "Samsung A10 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A10+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2347,
+    "name": "Samsung A10s NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A10s+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2348,
+    "name": "Samsung A11 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A11+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2349,
+    "name": "Samsung A125 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A125+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2350,
+    "name": "Samsung A127 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A127+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2351,
+    "name": "Samsung M127 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+M127+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2352,
+    "name": "Samsung A135 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A135+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2353,
+    "name": "Samsung A136U NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A136U+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2354,
+    "name": "Samsung M135 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+M135+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2355,
+    "name": "Samsung M336 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+M336+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2356,
+    "name": "Samsung M236 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+M236+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2357,
+    "name": "Samsung 145p NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+145p+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2358,
+    "name": "Samsung 146p NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+146p+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2359,
+    "name": "Samsung 146B NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+146B+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2360,
+    "name": "Samsung A20e NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A20e+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2361,
+    "name": "Samsung A20s NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A20s+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2362,
+    "name": "Samsung A21s NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A21s+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2363,
+    "name": "Samsung A225g NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A225g+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2364,
+    "name": "Samsung A235g NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A235g+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2365,
+    "name": "Samsung A325g NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A325g+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2366,
+    "name": "Samsung J610 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+J610+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2367,
+    "name": "Samsung A02 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A02+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2368,
+    "name": "Samsung A06 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A06+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2369,
+    "name": "Samsung A07 NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A07+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2370,
+    "name": "Samsung A03 Core NF LCD Original (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/334155/white?text=Samsung+A03%20Core+NF",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2371,
+    "name": "Samsung S8 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 55,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S8+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2372,
+    "name": "Samsung S9 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 55,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S9+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2373,
+    "name": "Samsung S8 Plus OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 70,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S8%20Plus+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2374,
+    "name": "Samsung S9 Plus OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 70,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S9%20Plus+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2375,
+    "name": "Samsung S10 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 80,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S10+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2376,
+    "name": "Samsung S10 Plus OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 100,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S10%20Plus+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2377,
+    "name": "Samsung S20 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 70,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S20+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2378,
+    "name": "Samsung S20 FE OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 55,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S20%20FE+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2379,
+    "name": "Samsung S20 Ultra OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 70,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S20%20Ultra+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2380,
+    "name": "Samsung S21 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 70,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S21+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2381,
+    "name": "Samsung S21 Ultra OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 75,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S21%20Ultra+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2382,
+    "name": "Samsung S21 FE OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 40,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S21%20FE+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2383,
+    "name": "Samsung S22 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 90,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S22+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2384,
+    "name": "Samsung S22 Plus OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 65,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S22%20Plus+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2385,
+    "name": "Samsung S22 Ultra OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 80,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S22%20Ultra+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2386,
+    "name": "Samsung S23 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 100,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S23+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2387,
+    "name": "Samsung S23 Plus OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 70,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S23%20Plus+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2388,
+    "name": "Samsung S23 Ultra OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 80,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S23%20Ultra+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2389,
+    "name": "Samsung S24 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 105,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S24+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2390,
+    "name": "Samsung S24 Ultra OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 100,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S24%20Ultra+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2391,
+    "name": "Samsung S25 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 90,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+S25+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2392,
+    "name": "Samsung Note 9 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 75,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+Note%209+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2393,
+    "name": "Samsung Note 10 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 85,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+Note%2010+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2394,
+    "name": "Samsung Note 10 Plus OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 65,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+Note%2010%20Plus+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2395,
+    "name": "Samsung Note 20 Ultra OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 75,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+Note%2020%20Ultra+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2396,
+    "name": "Samsung A24 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 25,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A24+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2397,
+    "name": "Samsung A30s OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 24,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A30s+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2398,
+    "name": "Samsung A31 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 24,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A31+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2399,
+    "name": "Samsung A32 4G OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 24,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A32%204G+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2400,
+    "name": "Samsung A33 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 28,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A33+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2401,
+    "name": "Samsung A34 4G OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 25,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A34%204G+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2402,
+    "name": "Samsung A35 5G OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A35%205G+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2403,
+    "name": "Samsung A36 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 35,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A36+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2404,
+    "name": "Samsung A40 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A40+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2405,
+    "name": "Samsung A41 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 35,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A41+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2406,
+    "name": "Samsung A42 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 32,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A42+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2407,
+    "name": "Samsung A50 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 22,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A50+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2408,
+    "name": "Samsung A51 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 24,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A51+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2409,
+    "name": "Samsung A52 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A52+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2410,
+    "name": "Samsung A52s OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 27,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A52s+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2411,
+    "name": "Samsung A53 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 26,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A53+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2412,
+    "name": "Samsung A54 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 28,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A54+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2413,
+    "name": "Samsung A71 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 30,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A71+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2414,
+    "name": "Samsung A16 OLED W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 32,
+    "image": "https://placehold.co/400x400/0f172a/cyan?text=Samsung+A16+OLED",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2415,
+    "name": "Samsung A05 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A05",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2416,
+    "name": "Samsung A10 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A10",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2417,
+    "name": "Samsung A10s INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A10s",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2418,
+    "name": "Samsung A11 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A11",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2419,
+    "name": "Samsung A125 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A125",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2420,
+    "name": "Samsung A127 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A127",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2421,
+    "name": "Samsung M127 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+M127",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2422,
+    "name": "Samsung A135 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A135",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2423,
+    "name": "Samsung A136U INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A136U",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2424,
+    "name": "Samsung M135 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+M135",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2425,
+    "name": "Samsung M336 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+M336",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2426,
+    "name": "Samsung M236 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+M236",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2427,
+    "name": "Samsung 145p INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+145p",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2428,
+    "name": "Samsung 146p INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+146p",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2429,
+    "name": "Samsung 146B INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+146B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2430,
+    "name": "Samsung A20e INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A20e",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2431,
+    "name": "Samsung A20s INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A20s",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2432,
+    "name": "Samsung A21s INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A21s",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2433,
+    "name": "Samsung A225g INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A225g",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2434,
+    "name": "Samsung A235g INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A235g",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2435,
+    "name": "Samsung A234g INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A234g",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2436,
+    "name": "Samsung A324g INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A324g",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2437,
+    "name": "Samsung A325g INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 11,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A325g",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2438,
+    "name": "Samsung J610 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+J610",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2439,
+    "name": "Samsung A02 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A02",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2440,
+    "name": "Samsung A06 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A06",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2441,
+    "name": "Samsung A07 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A07",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2442,
+    "name": "Samsung A03 Core INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A03%20Core",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2443,
+    "name": "Samsung A750 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A750",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2444,
+    "name": "Samsung A16 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A16",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2445,
+    "name": "Samsung A15 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A15",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2446,
+    "name": "Samsung A70 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 18,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A70",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2447,
+    "name": "Samsung A35 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 16,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A35",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2448,
+    "name": "Samsung A51 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 14,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A51",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2449,
+    "name": "Samsung A52 INCELL W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "https://placehold.co/400x400/1e3a5f/white?text=Samsung+A52",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2450,
+    "name": "Redmi A3 LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+A3",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2451,
+    "name": "Redmi A5 Long Flex LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+A5%20Long%20Flex",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2452,
+    "name": "Redmi Note 8T LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note%208T",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2453,
+    "name": "Redmi Note 8 Pro LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note%208%20Pro",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2454,
+    "name": "Redmi 8/8A Pro LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+8%2F8A%20Pro",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2455,
+    "name": "Redmi 9A/9c/9At LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+9A%2F9c%2F9At",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2456,
+    "name": "Redmi 9T LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+9T",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2457,
+    "name": "Redmi Note 9 LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note%209",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2458,
+    "name": "Redmi Note 9s LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note%209s",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2459,
+    "name": "Redmi 10 4G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+10%204G",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2460,
+    "name": "Redmi 10 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+10%205G",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2461,
+    "name": "Redmi 10A LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+10A",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2462,
+    "name": "Redmi 10C LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+10C",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2463,
+    "name": "Redmi Note 10 Pro LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note%2010%20Pro",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2464,
+    "name": "Redmi Note 11/11s 4G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 13,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note%2011%2F11s%204G",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2465,
+    "name": "Redmi Note 11 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note%2011%205G",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2466,
+    "name": "Redmi 12c LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+12c",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2467,
+    "name": "Redmi 13 LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+13",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2468,
+    "name": "Redmi 13c LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+13c",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2469,
+    "name": "Redmi 14c LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+14c",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2470,
+    "name": "Redmi 15 LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 16,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+15",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2471,
+    "name": "Redmi 15c LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 12,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+15c",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2472,
+    "name": "Redmi A2+ LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+A2%2B",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2473,
+    "name": "Redmi 12 NF LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 9,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+12%20NF",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2474,
+    "name": "Redmi 11 Lite 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 20,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+11%20Lite%205G",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2475,
+    "name": "Redmi 11T/11T Pro LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 20,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+11T%2F11T%20Pro",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2476,
+    "name": "Redmi 10T Lite/Note 9 Pro 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 14,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+10T%20Lite%2FNote%209%20Pro%205G",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2477,
+    "name": "Redmi Note 10 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note%2010%205G",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2478,
+    "name": "Redmi Note 14 Pro LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 20,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note%2014%20Pro",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2479,
+    "name": "Redmi Note 13 Pro LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 15,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note%2013%20Pro",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2480,
+    "name": "Samsung S25 Ultra Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 175,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S25%20Ultra+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2481,
+    "name": "Samsung S23 Ultra Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 190,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S23%20Ultra+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2482,
+    "name": "Samsung S24 Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 105,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S24+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2483,
+    "name": "Samsung S24 FE Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 65,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S24%20FE+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2484,
+    "name": "Samsung S24 Ultra Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 170,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S24%20Ultra+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2485,
+    "name": "Samsung S25 Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 100,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S25+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2486,
+    "name": "Samsung Note 8 Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 80,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+Note%208+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2487,
+    "name": "Samsung Note 9 Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 120,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+Note%209+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2488,
+    "name": "Samsung Note 10 Plus Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 120,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+Note%2010%20Plus+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2489,
+    "name": "Samsung Note 20 Ultra Black Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 140,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+Note%2020%20Ultra%20Black+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2490,
+    "name": "Samsung Note 20 Ultra Silver/Gold Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 140,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+Note%2020%20Ultra%20Silver%2FGold+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2491,
+    "name": "Samsung Z Fold 3 5G Black Inner Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 300,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+Z%20Fold%203%205G%20Black%20Inner+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2492,
+    "name": "Samsung Z Fold 4 5G Black Inner Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 320,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+Z%20Fold%204%205G%20Black%20Inner+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2493,
+    "name": "Samsung Z Flip 3 5G 2121 Black Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 170,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+Z%20Flip%203%205G%202121%20Black+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2494,
+    "name": "Samsung Z Flip 4 Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 200,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+Z%20Flip%204+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2495,
+    "name": "Samsung S10 Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 90,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S10+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2496,
+    "name": "Samsung S10 Plus Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 110,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S10%20Plus+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2497,
+    "name": "Samsung S9 Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 58,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S9+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2498,
+    "name": "Samsung S9 Plus Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 90,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S9%20Plus+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2499,
+    "name": "Samsung S8 Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 60,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S8+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2500,
+    "name": "Samsung S8 Plus Original BK A++ GRADE (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 80,
+    "image": "https://placehold.co/400x400/7c3aed/white?text=Samsung+S8%20Plus+A%2B%2B",
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2501,
+    "name": "Redmi Note 9 Pro LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 14,
+    "image": "https://placehold.co/400x400/ef4444/white?text=Redmi+Note+9+Pro",
+    "inStock": true,
+    "brand": "Redmi"
+  },
+  {
+    "id": 2502,
+    "name": "iPhone XR INCELL LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "/lcd-images/iphone xr.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone xr.jpg",
+      "/lcd-images/iphone xr.jpg",
+      "/lcd-images/iphone xr.jpg"
+    ]
+  },
+  {
+    "id": 2503,
+    "name": "iPhone XR PRIME PLUS QUALITY LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 14,
+    "image": "/lcd-images/iphone xr.jpg",
+    "inStock": true,
+    "brand": "iPhone",
+    "images": [
+      "/lcd-images/iphone xr.jpg",
+      "/lcd-images/iphone xr.jpg",
+      "/lcd-images/iphone xr.jpg"
+    ]
+  },
+  {
+    "id": 2504,
+    "name": "iPhone 12 Mini Camera",
+    "category": "Mobile Parts",
+    "price": 24,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2012%20Mini%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2505,
+    "name": "iPhone 12 Pro Camera",
+    "category": "Mobile Parts",
+    "price": 48,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2012%20Pro%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2506,
+    "name": "iPhone 13 Camera",
+    "category": "Mobile Parts",
+    "price": 8,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2013%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2507,
+    "name": "iPhone 13 Pro Camera",
+    "category": "Mobile Parts",
+    "price": 48,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2013%20Pro%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2508,
+    "name": "iPhone 13 Pro Max Camera",
+    "category": "Mobile Parts",
+    "price": 48,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2013%20Pro%20Max%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2509,
+    "name": "iPhone 14 Pro Max Camera",
+    "category": "Mobile Parts",
+    "price": 40,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2014%20Pro%20Max%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2510,
+    "name": "iPhone 15 Camera",
+    "category": "Mobile Parts",
+    "price": 20,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2015%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2511,
+    "name": "iPhone 15 Plus Camera",
+    "category": "Mobile Parts",
+    "price": 23,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2015%20Plus%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2512,
+    "name": "iPhone 15 Pro Max Camera",
+    "category": "Mobile Parts",
+    "price": 38,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2015%20Pro%20Max%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2513,
+    "name": "iPhone 16 Plus Camera",
+    "category": "Mobile Parts",
+    "price": 44,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2016%20Plus%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2514,
+    "name": "iPhone 16 Pro Camera",
+    "category": "Mobile Parts",
+    "price": 35,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2016%20Pro%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2515,
+    "name": "iPhone 16 Pro Max Camera",
+    "category": "Mobile Parts",
+    "price": 45,
+    "image": "https://placehold.co/400x400/6366f1/white?text=iPhone%2016%20Pro%20Max%20Camera",
+    "inStock": true
+  },
+  {
+    "id": 2516,
+    "name": "iPhone 11 Charging Flex",
+    "category": "Mobile Parts",
+    "price": 7,
+    "image": "https://placehold.co/400x400/10b981/white?text=iPhone%2011%20Charging%20Flex",
+    "inStock": true
+  },
+  {
+    "id": 2517,
+    "name": "iPhone 11 Pro Max Charging Flex",
+    "category": "Mobile Parts",
+    "price": 20,
+    "image": "https://placehold.co/400x400/10b981/white?text=iPhone%2011%20Pro%20Max%20Charging%20Flex",
+    "inStock": true
+  },
+  {
+    "id": 2518,
+    "name": "iPhone 15 Charging Flex",
+    "category": "Mobile Parts",
+    "price": 7,
+    "image": "https://placehold.co/400x400/10b981/white?text=iPhone%2015%20Charging%20Flex",
+    "inStock": true
+  },
+  {
+    "id": 2519,
+    "name": "iPhone 15 Plus Charging Flex",
+    "category": "Mobile Parts",
+    "price": 8,
+    "image": "https://placehold.co/400x400/10b981/white?text=iPhone%2015%20Plus%20Charging%20Flex",
+    "inStock": true
+  },
+  {
+    "id": 2520,
+    "name": "iPhone 15 Pro Charging Flex",
+    "category": "Mobile Parts",
+    "price": 8,
+    "image": "https://placehold.co/400x400/10b981/white?text=iPhone%2015%20Pro%20Charging%20Flex",
+    "inStock": true
+  },
+  {
+    "id": 2521,
+    "name": "iPhone 15 Pro Max Charging Flex",
+    "category": "Mobile Parts",
+    "price": 10,
+    "image": "https://placehold.co/400x400/10b981/white?text=iPhone%2015%20Pro%20Max%20Charging%20Flex",
+    "inStock": true
+  },
+  {
+    "id": 2522,
+    "name": "iPhone 16 Charging Flex",
+    "category": "Mobile Parts",
+    "price": 7,
+    "image": "https://placehold.co/400x400/10b981/white?text=iPhone%2016%20Charging%20Flex",
+    "inStock": true
+  },
+  {
+    "id": 2523,
+    "name": "iPhone 16 Plus Charging Flex",
+    "category": "Mobile Parts",
+    "price": 8,
+    "image": "https://placehold.co/400x400/10b981/white?text=iPhone%2016%20Plus%20Charging%20Flex",
+    "inStock": true
+  },
+  {
+    "id": 2524,
+    "name": "iPhone 16 Pro Charging Flex",
+    "category": "Mobile Parts",
+    "price": 8,
+    "image": "https://placehold.co/400x400/10b981/white?text=iPhone%2016%20Pro%20Charging%20Flex",
+    "inStock": true
+  },
+  {
+    "id": 2525,
+    "name": "iPhone 16 Pro Max Charging Flex",
+    "category": "Mobile Parts",
+    "price": 8,
+    "image": "https://placehold.co/400x400/10b981/white?text=iPhone%2016%20Pro%20Max%20Charging%20Flex",
+    "inStock": true
+  },
+  {
+    "id": 2534,
+    "name": "iPhone 16 Pro Max 512GB Open Box",
+    "category": "Mobiles",
+    "price": 1070,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2016%20Pro",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2535,
+    "name": "iPhone 16 Pro Max 256GB Open Box",
+    "category": "Mobiles",
+    "price": 950,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2016%20Pro",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2536,
+    "name": "iPhone 16 Pro Max 256GB Kit",
+    "category": "Mobiles",
+    "price": 920,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2016%20Pro",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2537,
+    "name": "iPhone 16 Pro 128GB",
+    "category": "Mobiles",
+    "price": 780,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2016%20Pro",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2538,
+    "name": "iPhone 16 128GB Box Pack",
+    "category": "Mobiles",
+    "price": 630,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2016%20128GB",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2539,
+    "name": "iPhone 16 128GB Open Box",
+    "category": "Mobiles",
+    "price": 600,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2016%20128GB",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2540,
+    "name": "iPhone 16E 128GB Open Box",
+    "category": "Mobiles",
+    "price": 430,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2016E%20128GB",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2541,
+    "name": "iPhone 15 128GB Box Pack",
+    "category": "Mobiles",
+    "price": 500,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2015%20128GB",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2542,
+    "name": "iPhone 15 128GB Open Box",
+    "category": "Mobiles",
+    "price": 470,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2015%20128GB",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2543,
+    "name": "iPhone 15 Pro Max 256GB Grade B",
+    "category": "Mobiles",
+    "price": 640,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2015%20Pro",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2544,
+    "name": "iPhone 15 Plus 128GB Kit",
+    "category": "Mobiles",
+    "price": 480,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2015%20Plus",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2545,
+    "name": "iPhone 14 Pro 128GB Grade C",
+    "category": "Mobiles",
+    "price": 350,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2014%20Pro",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2546,
+    "name": "iPhone 14 128GB Grade B",
+    "category": "Mobiles",
+    "price": 250,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2014%20128GB",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2547,
+    "name": "iPhone 13 Pro 128GB Grade C",
+    "category": "Mobiles",
+    "price": 320,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2013%20Pro",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2548,
+    "name": "iPhone 13 Pro Max 128GB Grade B",
+    "category": "Mobiles",
+    "price": 380,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2013%20Pro",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2549,
+    "name": "iPhone 12 Mini 64GB Kit",
+    "category": "Mobiles",
+    "price": 165,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2012%20Mini",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2550,
+    "name": "iPhone 11 Pro Max 512GB Kit",
+    "category": "Mobiles",
+    "price": 290,
+    "image": "https://placehold.co/400x400/1e293b/ffffff?text=iPhone%2011%20Pro",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2551,
+    "name": "Apple Watch Ultra 3 Open Box",
+    "category": "Apple Watch",
+    "price": 600,
+    "image": "https://qmart.pk/wp-content/uploads/2025/10/Apple-Watch-Ultra-3-49mm-Black-Titanuim-Case-Black-Ocean-Band-Qmart-1.jpg",
+    "inStock": true,
+    "images": [
+      "https://qmart.pk/wp-content/uploads/2025/10/Apple-Watch-Ultra-3-49mm-Black-Titanuim-Case-Black-Ocean-Band-Qmart-1.jpg",
+      "https://qmart.pk/wp-content/uploads/2025/10/Apple-Watch-Ultra-3-49mm-Black-Titanuim-Case-Black-Ocean-Band-Qmart-1.jpg",
+      "https://qmart.pk/wp-content/uploads/2025/10/Apple-Watch-Ultra-3-49mm-Black-Titanuim-Case-Black-Ocean-Band-Qmart-1.jpg"
+    ]
+  },
+  {
+    "id": 2552,
+    "name": "Apple Watch Ultra 3 Kit Black",
+    "category": "Apple Watch",
+    "price": 520,
+    "image": "https://qmart.pk/wp-content/uploads/2025/10/Apple-Watch-Ultra-3-49mm-Black-Titanuim-Case-Black-Ocean-Band-Qmart-1.jpg",
+    "inStock": true,
+    "images": [
+      "https://qmart.pk/wp-content/uploads/2025/10/Apple-Watch-Ultra-3-49mm-Black-Titanuim-Case-Black-Ocean-Band-Qmart-1.jpg",
+      "https://qmart.pk/wp-content/uploads/2025/10/Apple-Watch-Ultra-3-49mm-Black-Titanuim-Case-Black-Ocean-Band-Qmart-1.jpg",
+      "https://qmart.pk/wp-content/uploads/2025/10/Apple-Watch-Ultra-3-49mm-Black-Titanuim-Case-Black-Ocean-Band-Qmart-1.jpg"
+    ]
+  },
+  {
+    "id": 2553,
+    "name": "Apple Watch Series 11 Box Pack",
+    "category": "Apple Watch",
+    "price": 450,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqM1buQ4ypgzjilh7vtJCByR_jhaVha_VhZw&s",
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqM1buQ4ypgzjilh7vtJCByR_jhaVha_VhZw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqM1buQ4ypgzjilh7vtJCByR_jhaVha_VhZw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqM1buQ4ypgzjilh7vtJCByR_jhaVha_VhZw&s"
+    ]
+  },
+  {
+    "id": 2554,
+    "name": "Apple Watch Series 10 46mm Kit",
+    "category": "Apple Watch",
+    "price": 290,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeletId6Dd4IFZsHpYi79wGEDBrdZ_68rqQ&s",
+    "inStock": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeletId6Dd4IFZsHpYi79wGEDBrdZ_68rqQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeletId6Dd4IFZsHpYi79wGEDBrdZ_68rqQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxeletId6Dd4IFZsHpYi79wGEDBrdZ_68rqQ&s"
+    ]
+  },
+  {
+    "id": 2555,
+    "name": "Apple Watch SE 42mm Kit",
+    "category": "Apple Watch",
+    "price": 150,
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-1-202509_FMT_WHH?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1757727953034",
+    "inStock": true,
+    "images": [
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-1-202509_FMT_WHH?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1757727953034",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-1-202509_FMT_WHH?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1757727953034",
+      "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/se-case-unselect-gallery-1-202509_FMT_WHH?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1757727953034"
+    ]
+  },
+  {
+    "id": 2556,
+    "name": "iPhone 17 Pro Max 256GB Open Box Blue",
+    "category": "Mobiles",
+    "price": 1230,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqF70pj0hPADpOaMzVsos4d5dCaaUY74WBA&s",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2557,
+    "name": "iPhone 17 Pro Max 512GB Box Pack Orange",
+    "category": "Mobiles",
+    "price": 1400,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxptQyugZ-dCrdUo6IXJmFtsOwN2-PvOGQA&s",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2558,
+    "name": "iPhone 17 Pro Max 512GB Box Pack Silver",
+    "category": "Mobiles",
+    "price": 1400,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHafM8cLKtFKqswS72oTUcINn4hos4CDnyLQ&s",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2559,
+    "name": "iPhone 17 Pro 1TB Open Box Orange",
+    "category": "Mobiles",
+    "price": 1380,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxptQyugZ-dCrdUo6IXJmFtsOwN2-PvOGQA&s",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2560,
+    "name": "iPhone 17 Pro 512GB Box Pack White",
+    "category": "Mobiles",
+    "price": 1300,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHafM8cLKtFKqswS72oTUcINn4hos4CDnyLQ&s",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2561,
+    "name": "iPhone 17 Pro 256GB Box Pack Blue",
+    "category": "Mobiles",
+    "price": 1090,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqF70pj0hPADpOaMzVsos4d5dCaaUY74WBA&s",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2562,
+    "name": "iPhone 17 512GB Open Box",
+    "category": "Mobiles",
+    "price": 840,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHhfhCrYpTqRwPF5cAPw6Pzatoj6AM4waZA&s",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2563,
+    "name": "iPhone 17 512GB Open Box Blue",
+    "category": "Mobiles",
+    "price": 840,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqF70pj0hPADpOaMzVsos4d5dCaaUY74WBA&s",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2564,
+    "name": "iPhone 17 256GB Box Pack",
+    "category": "Mobiles",
+    "price": 780,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHhfhCrYpTqRwPF5cAPw6Pzatoj6AM4waZA&s",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2565,
+    "name": "iPhone 17 256GB Open Box",
+    "category": "Mobiles",
+    "price": 720,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTHhfhCrYpTqRwPF5cAPw6Pzatoj6AM4waZA&s",
+    "inStock": true,
+    "brand": "iPhone"
+  },
+  {
+    "id": 2566,
+    "name": "Samsung A145p NF LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2567,
+    "name": "Samsung A145b NF LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2568,
+    "name": "Samsung A146p NF LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2569,
+    "name": "Samsung A146b NF LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2570,
+    "name": "Samsung A146B W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 13,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2571,
+    "name": "Samsung A145p W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 13,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2572,
+    "name": "Samsung A146P W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 13,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2573,
+    "name": "Samsung A15 4G/5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 35,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2574,
+    "name": "Samsung A17 4G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 42,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2575,
+    "name": "Samsung A24 4G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 46,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2576,
+    "name": "Samsung A25 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 46,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2577,
+    "name": "Samsung A26 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 48,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2578,
+    "name": "Samsung A34 5G N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 40,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2579,
+    "name": "Samsung A34 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 60,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2580,
+    "name": "Samsung A35 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 52,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2581,
+    "name": "Samsung A36 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 58,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2582,
+    "name": "Samsung A50 2019 LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 49,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2583,
+    "name": "Samsung A51 2020 LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 55,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2584,
+    "name": "Samsung A52 4G/5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 63,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2585,
+    "name": "Samsung A52S 5G LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 70,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2586,
+    "name": "Samsung A53 5G Blue LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 58,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2587,
+    "name": "Samsung A53 5G Gold LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 52,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2588,
+    "name": "Samsung A54 5G N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 40,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2589,
+    "name": "Samsung A54 Black 5G 2023 LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 60,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2590,
+    "name": "Samsung A55 5G 2024 Black LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 60,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2591,
+    "name": "Samsung A55 5G 2024 Blue LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 60,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2592,
+    "name": "Samsung A56 5G 2025 Black LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 63,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2593,
+    "name": "Samsung A56 5G 2025 Gray LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 63,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2594,
+    "name": "Samsung S22 N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 95,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2595,
+    "name": "Samsung S22 Ultra N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 150,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2596,
+    "name": "Samsung S23 Ultra N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 150,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2597,
+    "name": "Samsung S24 5G N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 85,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2598,
+    "name": "Samsung A02 N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2599,
+    "name": "Samsung A02S N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2600,
+    "name": "Samsung A04E N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2601,
+    "name": "Samsung A04 N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 8,
+    "image": "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+    "images": [
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD",
+      "https://placehold.co/400x400/1428a0/white?text=Samsung+LCD"
+    ],
+    "inStock": true,
+    "brand": "Samsung"
+  },
+  {
+    "id": 2602,
+    "name": "Huawei Honor 90 Lite LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 13,
+    "image": "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+    "images": [
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD"
+    ],
+    "inStock": true,
+    "brand": "Huawei"
+  },
+  {
+    "id": 2603,
+    "name": "Huawei P Smart Z 2019 W/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 17,
+    "image": "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+    "images": [
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD"
+    ],
+    "inStock": true,
+    "brand": "Huawei"
+  },
+  {
+    "id": 2604,
+    "name": "Huawei Mate 10 Lite N/F LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+    "images": [
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD"
+    ],
+    "inStock": true,
+    "brand": "Huawei"
+  },
+  {
+    "id": 2605,
+    "name": "Huawei P20 Lite LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 10,
+    "image": "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+    "images": [
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD"
+    ],
+    "inStock": true,
+    "brand": "Huawei"
+  },
+  {
+    "id": 2606,
+    "name": "Huawei P40 Lite LCD (6 Month Warranty)",
+    "category": "LCDs",
+    "price": 13,
+    "image": "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+    "images": [
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD",
+      "https://placehold.co/400x400/c41e3a/white?text=Huawei+LCD"
+    ],
+    "inStock": true,
+    "brand": "Huawei"
+  }
+]
