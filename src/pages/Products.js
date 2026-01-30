@@ -9,7 +9,7 @@ import SellProductModal from '../components/common/SellProductModal';
 
 const Products = () => {
   const { searchTerm } = useOutletContext();
-  const { products, addProduct, updateProduct, deleteProduct, updateQuantity, fetchProducts } = useProducts();
+  const { products, addProduct, updateProduct, deleteProduct, fetchProducts } = useProducts();
   const { addSale } = useSales();
   const [showAddModal, setShowAddModal] = useState(false);
   const [showEditModal, setShowEditModal] = useState(false);
@@ -88,11 +88,6 @@ const Products = () => {
     updateProduct(selectedProduct.id, data);
     setShowEditModal(false);
     setSelectedProduct(null);
-  };
-
-  const handleQuantityChange = (product, change) => {
-    const newQty = Math.max(0, product.quantity + change);
-    updateQuantity(product.id, newQty);
   };
 
   return (

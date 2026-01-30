@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { X, ShoppingBag } from 'lucide-react';
 
 const SellProductModal = ({ product, onClose, onSell }) => {

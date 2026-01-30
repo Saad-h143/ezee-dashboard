@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import { Home, ShoppingCart, BarChart2, Clock, LogOut } from 'lucide-react';
+import { Home, ShoppingCart, Clock, LogOut } from 'lucide-react';
 import { useAuth } from '../../context/AuthContext';
 // Import logo - place your ezee.png in src/assets folder
 import logo from '../../assets/Ezee.png';

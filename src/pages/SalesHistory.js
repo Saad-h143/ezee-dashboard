@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { Search, ChevronLeft, ChevronRight, FileText, Phone, User, Hash, Calendar } from 'lucide-react';
+import { Search, ChevronLeft, ChevronRight, FileText, Phone, User, Hash } from 'lucide-react';
 import { useSales } from '../context/SalesContext';
 
 const SalesHistory = () => {

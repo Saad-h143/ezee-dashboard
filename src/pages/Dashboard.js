@@ -23,9 +23,9 @@ const Dashboard = () => {
   const { products } = useProducts();
   const { sales, getSalesStats, getWeeklySales, getMonthlySales } = useSales();
 
-  const stats = useMemo(() => getSalesStats(), [sales]);
-  const weeklyData = useMemo(() => getWeeklySales(), [sales]);
-  const monthlyData = useMemo(() => getMonthlySales(), [sales]);
+  const stats = useMemo(() => getSalesStats(), [sales, getSalesStats]);
+  const weeklyData = useMemo(() => getWeeklySales(), [sales, getWeeklySales]);
+  const monthlyData = useMemo(() => getMonthlySales(), [sales, getMonthlySales]);
 
   const totalProducts = products.length;
   const lowStockProducts = products.filter(p => p.quantity > 0 && p.quantity <= 20).length;
