@@ -13,7 +13,7 @@ const Analytics = () => {
   ];
 
   return (
-    <div className="p-6 space-y-6 animate-fade-in">
+    <div className="p-6 space-y-6 animate-fade-in ">
       <h2 className="text-2xl font-bold text-gray-800">Analytics & Reports</h2>
 
       {/* Summary Cards */}
