@@ -1,18 +1,23 @@
 import { useState, useMemo } from 'react';
 import { useOutletContext } from 'react-router-dom';
-import { Plus, Search, Download, Package, Edit2, Trash2, ChevronLeft, ChevronRight} from 'lucide-react';
+import { Plus, Search, Download, Package, Edit2, Trash2, ChevronLeft, ChevronRight, ShoppingBag } from 'lucide-react';
 import { useProducts } from '../context/ProductContext';
+import { useSales } from '../context/SalesContext';
 import ProductModal from '../components/common/ProductModal';
 import DeleteConfirmModal from '../components/common/DeleteConfirmModal';
+import SellProductModal from '../components/common/SellProductModal';
 
 const Products = () => {
   const { searchTerm } = useOutletContext();
-  const { products, addProduct, updateProduct, deleteProduct, updateQuantity } = useProducts();
+  const { products, addProduct, updateProduct, deleteProduct, updateQuantity, fetchProducts } = useProducts();
+  const { addSale } = useSales();
   const [showAddModal, setShowAddModal] = useState(false);
   const [showEditModal, setShowEditModal] = useState(false);
   const [showDeleteModal, setShowDeleteModal] = useState(false);
+  const [showSellModal, setShowSellModal] = useState(false);
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [productToDelete, setProductToDelete] = useState(null);
+  const [productToSell, setProductToSell] = useState(null);
   const [localSearch, setLocalSearch] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -45,6 +50,20 @@ const Products = () => {
   const handleEdit = (product) => {
     setSelectedProduct(product);
     setShowEditModal(true);
+  };
+
+  const handleSellClick = (product) => {
+    setProductToSell(product);
+    setShowSellModal(true);
+  };
+
+  const handleSell = async (saleData) => {
+    const result = await addSale(saleData);
+    if (result.success) {
+      setShowSellModal(false);
+      setProductToSell(null);
+      fetchProducts();
+    }
   };
 
   const handleDeleteClick = (product) => {
@@ -206,6 +225,14 @@ const Products = () => {
                   <td className="py-3 px-4 whitespace-nowrap">
                     <div className="flex items-center justify-end gap-1">
                       <button
+                        onClick={() => handleSellClick(product)}
+                        className="p-2 text-gray-500 hover:text-green-600 hover:bg-green-50 rounded-lg transition-colors"
+                        title="Sell"
+                        disabled={product.quantity <= 0}
+                      >
+                        <ShoppingBag className="w-4 h-4" />
+                      </button>
+                      <button
                         onClick={() => handleEdit(product)}
                         className="p-2 text-gray-500 hover:text-purple-600 hover:bg-purple-50 rounded-lg transition-colors"
                         title="Edit"
@@ -316,6 +343,15 @@ const Products = () => {
         onConfirm={handleDeleteConfirm}
         productName={productToDelete?.name || ''}
       />
+
+      {/* Sell Product Modal */}
+      {showSellModal && productToSell && (
+        <SellProductModal
+          product={productToSell}
+          onClose={() => { setShowSellModal(false); setProductToSell(null); }}
+          onSell={handleSell}
+        />
+      )}
     </div>
   );
 };

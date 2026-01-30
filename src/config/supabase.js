@@ -24,4 +24,28 @@ export const supabase = createClient(supabaseUrl, supabaseAnonKey);
 
   CREATE POLICY "Allow all for authenticated users" ON products
     FOR ALL USING (auth.role() = 'authenticated');
+
+  -- Sales table:
+
+  CREATE TABLE sales (
+    id UUID DEFAULT gen_random_uuid() PRIMARY KEY,
+    product_id UUID REFERENCES products(id),
+    product_name VARCHAR(255) NOT NULL,
+    product_category VARCHAR(100),
+    product_brand VARCHAR(100),
+    product_price DECIMAL(10, 2) NOT NULL,
+    sell_price DECIMAL(10, 2) NOT NULL,
+    quantity_sold INTEGER NOT NULL DEFAULT 1,
+    total_price DECIMAL(10, 2) NOT NULL,
+    customer_name VARCHAR(255) NOT NULL,
+    customer_phone VARCHAR(50) NOT NULL,
+    imei_number VARCHAR(100) NOT NULL,
+    description TEXT,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
+  );
+
+  ALTER TABLE sales ENABLE ROW LEVEL SECURITY;
+
+  CREATE POLICY "Allow all for authenticated users" ON sales
+    FOR ALL USING (auth.role() = 'authenticated');
 */
